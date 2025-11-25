@@ -1,0 +1,20 @@
+# Rust
+rust-contract/target/
+rust-contract/wasm/
+rust-contract/model_bytes.rs
+rust-contract/.env
+rust-contract/*.onnx
+
+# Python
+__pycache__/
+*.pkl
+*.onnx
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+
+# System
+.DS_Store
+
