@@ -1,20 +1,22 @@
-# Rust
-rust-contract/target/
-rust-contract/wasm/
-rust-contract/model_bytes.rs
-rust-contract/.env
-rust-contract/*.onnx
+# Node
+node_modules/
+dist/
+build/
 
 # Python
 __pycache__/
 *.pkl
 *.onnx
 
-# Node
-frontend/node_modules/
-frontend/.next/
-frontend/dist/
+# Rust
+rust-contract/target/
+rust-contract/.env
+rust-contract/*.log
 
-# System
+# OS / Editor
 .DS_Store
+*.swp
 
+# Backup folders
+arbai-contract-broken-backup/
+rust-contract-src/
